@@ -27,7 +27,7 @@
     "morgan": "^1.9.1",
     "pg": "^8.0.3",
     "pg-hstore": "^2.3.3",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "sequelize": "^5.21.5",
     "sequelize-cli": "^5.5.1",
     "swagger-ui-express": "^4.1.3"
